@@ -12,4 +12,8 @@ Suba tudo em um repositório e faça a entrega.
 
 * A linguagem de programação para este desafio é Node/JavaScript.
 
+Passos para rodar:
+criar a pasta mysql na origem do projeto
+executar o comando docker-compose up
+
 
